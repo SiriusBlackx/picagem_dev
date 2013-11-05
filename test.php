@@ -1,5 +1,8 @@
+php
 <?php
 
-echo 'Testing php files.';
+echo "Testing php files.";
+$teste = "test";
 
+echo $teste;
 ?>
